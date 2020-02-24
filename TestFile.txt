@@ -1,1 +1,2 @@
-ECHO Hellow!
+ECHO Hello!
+ECHO This is my space!
