@@ -1,2 +1,3 @@
 ECHO Hello!
 ECHO This is my space!
+ECHO The next change for git-gui...
