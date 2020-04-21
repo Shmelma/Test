@@ -1,3 +1,6 @@
-ECHO Hello!
-ECHO This is my space!
-ECHO The next change for git-gui...
+@ECHO OFF
+    ECHO Hello!
+    ECHO This is my space!
+    ECHO The next change for git-gui...
+    ECHO C-5 This is where branching begins befor the commit is created "Здесь начнётся ветвление до создания снимка".
+    
