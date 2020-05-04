@@ -4,3 +4,4 @@
     ECHO The next change for git-gui...
     ECHO C-5 This is where branching begins befor the commit is created "Здесь начнётся ветвление до создания снимка".
     ECHO C-7!
+    ECHO C-8!
