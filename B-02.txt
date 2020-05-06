@@ -1,0 +1,3 @@
+﻿B-02: master and A-branch with «B» extention
+-- 000 vertion
+-- 001 vertion: 03 is cleated

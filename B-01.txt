@@ -1,0 +1,4 @@
+﻿B-01: master and A-branch with «B» extention
+-- 000 vertion, step 1, all 4
+-- 001 vertion: new file 2.
+-- 002 vertion: new file 3.
